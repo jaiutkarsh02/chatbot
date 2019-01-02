@@ -16,9 +16,9 @@ In order to run these scripts, you'll need the following libraries.
 
 ## How You Can Train
 
-1. Download and unzip [this entire repository from GitHub](https://github.com/Pphhaaaddd/chatbot_father_son), either interactively, or by entering the following in your Terminal.
+1. Download and unzip [this entire repository from GitHub](https://github.com/jaiutkarsh02/chatbot), either interactively, or by entering the following in your Terminal.
     ```bash
-    git clone https://github.com/Pphhaaaddd/chatbot_father_son
+    git clone https://github.com/jaiutkarsh02/chatbot
     ```
 
 2. Navigate into the top directory of the repo on your machine
